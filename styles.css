@@ -1,0 +1,679 @@
+#div-gg-meet{
+    background-color: #16151e;
+    height:96.3vh;
+    width: 19vw;
+    display: inline-block;
+}
+#div-fecha-gg{
+  margin-left: 2vw;
+  margin-top: 14vh;
+  height:11.3vh;
+  width:15.5vw;
+  background-color: #1f1e27;
+  border-radius: 4px;
+}
+
+#nombre-fecha-gg{
+    position: absolute;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    font-size: 1vw;
+    margin-left: 1.5vw;
+    margin-top: 1.8vh;
+}
+#calendar-gg{
+    position: absolute;
+    margin-top: -4.6vh;
+    margin-left: 7.3vw;
+    height: 18vh;
+    width: 9.5vw;
+}
+#fecha-gg{
+    position: absolute;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    font-size: 1.4vw;
+    font-weight:100;
+    margin-left: 1.4vw;
+    margin-top: 5vh;
+}
+#div-hora-gg{
+    margin-left: 2vw;
+    margin-top: 2.5vh;
+    height:11.3vh;
+    width:15.5vw;
+    background-color: #1f1e27;
+    border-radius: 4px;
+}
+#reloj-gg{
+    position: absolute;
+    margin-top: -2vh;
+    margin-left: 6.7vw;
+    height: 18vh;
+    width: 10vw;
+}
+#nombre-hora-gg{
+    position: absolute;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+    font-size: 1vw;
+    margin-left: 1.5vw;
+    margin-top: 1.8vh;
+}
+#hora-gg{
+    position: absolute;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 100;
+    color: white;
+    font-size: 1.4vw;
+    margin-left: 1.3vw;
+    margin-top: 5vh;
+}
+#div-enlace-gg{
+    margin-left: 2vw;
+    margin-top: 2.5vh;
+    height:8vh;
+    width:15.5vw;
+    background-color: #1f1e27;
+    border-radius: 4px;
+}
+#nombre-enlace{
+    position: absolute;
+    font-family:Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: 1vw;
+    margin-left: 0.5vw;
+    margin-top: 1.5vh;
+}
+#link-enlace{
+    position: absolute;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 350;
+    color: white;
+    font-size: 0.6vw;
+    margin-left: 0.5vw;
+    margin-top: 4.5vh;
+}
+#image-enlace{
+    position: absolute;
+    margin-top: 1vh;
+    margin-left: 13.7vw;
+    height: 2vh;
+    width: 1.3vw;
+}
+#div-archivos-gg{
+    margin-left: 2vw;
+    margin-top: 2.5vh;
+    height:30vh;
+    width:15.5vw;
+    background-color: #1f1e27;
+    border-radius: 4px;
+}
+.logo-adobe{
+    position: absolute;
+    margin-top: 4.5vh;
+    margin-left: 0.7vw;
+    height: 3vh;
+    width: 1.3vw;
+}
+#logo-adobe-1{
+    margin-top: 5vh;
+}
+#logo-adobe-2{
+    margin-top: 9vh;
+}
+#logo-adobe-3{
+    margin-top: 13vh;
+}
+#logo-adobe-4{
+    margin-top: 17vh;
+}
+#logo-adobe-5{
+    margin-top: 21vh;
+}
+#logo-adobe-6{
+    margin-top: 25vh;
+}
+.nombre-archivos{
+    position: absolute;
+    font-family:Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: 0.8vw;
+    margin-left: 2.5vw;
+    margin-top: 5.5vh;
+}
+#archivo1{
+    margin-top: 5.5vh;
+}
+#archivo2{
+    margin-top: 9.5vh;
+}
+#archivo3{
+    margin-top: 13.5vh;
+}
+#archivo4{
+    margin-top: 17.5vh;
+}
+#archivo5{
+    margin-top: 21.5vh;
+}
+#archivo6{
+    margin-top: 25.5vh;
+}
+.ojo{
+    position: absolute;
+    margin-top: 5vh;
+    margin-left: 12.9vw;
+    height: 1.5vh;
+    width: 1vw;
+}
+#ojo1{
+    margin-top: 5.5vh;
+}
+#ojo2{
+    margin-top: 9.6vh;
+}
+#ojo3{
+    margin-top: 13.6vh;
+}
+#ojo4{
+    margin-top: 17.6vh;
+}
+#ojo5{
+    margin-top: 21.6vh;
+}
+#ojo6{
+    margin-top: 25.6vh;
+}
+#nombre-text-archivo{
+    position: absolute;
+    font-family:Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: 1vw;
+    margin-left: 0.5vw;
+    margin-top: 0.8vh;
+}
+#div-cerrar-gg{
+    margin-left: 3vw;
+    margin-top: 6vh;
+    height:6vh;
+    width:14.5vw;
+    background-color: #1f1e27;
+    border-radius: 6px;
+}
+#texto-salir{
+    position: absolute;
+    font-family:Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: 0.8vw;
+    margin-left: 1.5vw;
+    margin-top: 2vh;
+}
+#image-salir{
+    position: absolute;
+    margin-top: 1vh;
+    margin-left: 12.5vw;
+    height: 4vh;
+    width: 1.7vw;
+}
+#text-gg{
+    color: aliceblue;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 100;
+    font-size: 1.5vw;
+    position: absolute;
+    margin-left: 2.2vw;
+    margin-top:7.2vh;
+}
+#text-gg l{
+    color: aliceblue;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+#div-contenedor-principal{
+    height: 97.5vh;
+    width: 98vw;
+    background-color:#f8f8f8;
+    display: inline-block;
+}
+#div-contenido-primario{
+    margin-left: 0vw;
+    margin-top: 0vh;
+    height: 96vh;
+    width: 55.5%;
+    display: inline-block;
+    position: absolute;
+}
+#div-contenido-segundario{
+    background-color:#ffffff;
+    margin-left: 55.5vw;
+    margin-top: 0vh;
+    height: 96vh;
+    width: 25%;
+    display: inline-block;
+    position: absolute;
+}
+#div-junta-directiva{
+    background-image:linear-gradient(rgba(61, 61, 61, 0.6), rgba(0, 0, 0,10)), url(images/retrato-del-hombre-feliz-que-se-sienta-en-el-escritorio-de-oficina-mirando-la-cámara-sonriendo-134499392.jpg);
+    border-color:red ;
+    border-radius: 10px;
+    margin-left: 2vw;
+    margin-top: 13vh;
+    height:37.5vh;
+    width: 50vw;
+    display: inline-block;
+}
+#text-junta-directiva{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 100;
+    color: white;
+    margin-top: 27.5vh;
+    margin-left: 1.5vw;
+    letter-spacing: 4px;
+    position: absolute;
+    font-size: 2vw;
+}
+#text-garantias-comunitarias{
+    color: white;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 600;
+    margin-top:32.5vh ;
+    margin-left: 1.5vw;
+    position: absolute;
+    font-size:0.9vw;
+}
+#logo-garantias-comunitarias{
+    margin-top: 3vh;
+    margin-left: 1.5vw;
+    height: 10vh;
+    width: 8vw;
+    border-radius: 10px;
+    position: absolute;
+}
+.text-delegar{
+    position: absolute;
+}
+#div-delegar-poder{
+    background-color: #ffffff;
+    border-width: thin;
+    border-style: solid;
+    border-color: rgb(226, 226, 226);
+    border-radius: 6px;
+    margin-left: 2vw;
+    margin-top: 4vh;
+    height:37.5vh;
+    width: 24.2vw;
+    float: left;
+    padding: 0%;
+}
+.text-delegar-font{
+    font-size: 1vw;
+    display: inline-block;
+    position: absolute;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 500;
+}
+.text-delegar-font-2{
+    display: inline-block;
+    position: absolute;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1.3vh;
+}
+#text-delegar{
+    margin-top:1.6vh;
+    margin-left: 1vw;
+}
+#text-identifi{
+    margin-top:6vh;
+    margin-left: 1vw;
+}
+#text-identifi-2{
+    margin-top:8.5vh;
+    margin-left: 1vw;
+}
+#text-nombre{
+    margin-top:12vh;
+    margin-left: 1vw;
+}
+#text-nombre-2{
+    margin-top:14.3vh;
+    margin-left: 1vw;
+}
+#text-correo{
+    margin-top:18vh;
+    margin-left: 1vw;
+}
+#text-correo-2{
+    margin-top:20.3vh;
+    margin-left: 1vw;
+}
+#text-firma{
+    margin-top:24vh;
+    margin-left: 1vw;
+    position: absolute;
+}
+#text-firma-2{
+    margin-top:26.7vh;
+    margin-left: 1vw;
+    height: 4vh;
+    width: 8vw;
+    position: absolute;
+}
+#text-asamblea{
+    margin-top:6vh;
+    margin-left: 10vw;
+}
+
+#text-asamblea-2{
+    margin-top:8.2vh;
+    margin-left: 10vw;
+}
+#button-cancelar-poder{
+    background-color: rgba(240, 248, 255, 0);
+    position: absolute;
+    border-width: thin;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+    margin-top: 32vh;
+    width: 21vw;
+    height: 1.8vw;
+    margin-left: 1.8vw; 
+    border-radius: 4px;
+    padding: 0vw;
+}
+#div-hora-reunion{
+    background-color: #ffffff;
+    border-width: thin;
+    border-style: solid;
+    border-color: rgb(226, 226, 226);
+    border-radius: 6px;
+    margin-left: 1.2vw;
+    margin-top: 4vh;
+    height:37.5vh;
+    width: 24.2vw;
+    display: inline-block;
+}
+.text-hora-reunion{
+    display: inline-block;
+    position: absolute;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 100;
+    font-size: 1.2vw;
+}
+.num-hora-reunion{
+    display: inline-block;
+    position: absolute;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 100;
+    font-size: 3vw;
+}
+#text-reunion{
+    margin-left: 5.8vw;
+    
+}
+#text-10{
+    margin-top: 8vh;
+    margin-left: 5.6vw;
+    
+}
+#text-dias{
+    font-size: 1vw;
+    margin-top: 15.2vh;
+    margin-left: 6vw;
+    
+}
+#text-12{
+    margin-top: 8vh;
+    margin-left: 10.2vw;
+    
+}
+#text-horas{
+    font-size: 1vw;
+    margin-top: 15.2vh;
+    margin-left: 10.7vw;
+    
+}
+#text-30{
+    margin-top: 8vh;
+    margin-left: 14.8vw;
+    
+}
+#text-minutos{
+    font-size: 1vw;
+    margin-top: 15.2vh;
+    margin-left: 15vw;
+    
+}
+#text-quorum{
+    font-size: 1vw;
+    position: absolute;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top:26vh;
+    margin-left: 1vw;
+}
+#text-49{
+    font-size: 1vw;
+    position: absolute;
+    font-family:Arial, Helvetica, sans-serif;
+    margin-top:26vh;
+    margin-left: 20vw;
+}
+#image-barra{
+    margin-left: 1vw;
+    margin-top: 25vh;
+    position: absolute;
+    width: 21vw;
+    height: 0.5vh;
+}
+#button-ingresar-reunion{
+    background-color: rgba(240, 248, 255, 0);
+    border-width: thin;
+    border-style: solid;
+    border-color: rgb(0, 0, 0);
+    position: absolute;
+    margin-top: 32vh;
+    width: 21vw;
+    height: 1.8vw;
+    margin-left: 1.8vw; 
+    border-radius: 4px;
+    padding: 0vw;
+}
+#div-image-jorge{
+    border: 1px solid;
+    border-radius: 10px;
+    width: 20vw;
+    height: 37.5vh;
+    margin-top: 13vh;
+    margin-left: 3vw;
+    position: relative;
+    background-image:linear-gradient(rgba(61, 61, 61, 0.6), rgba(0, 0, 0, 0.4)), url(images/abstract-3d-black-technology-wallpaper-preview.jpg);
+    background-position:center ;
+}
+#text-bienvenido-jorge{
+    position: absolute;
+    color: white;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 500;
+    font-size: 2vw;
+    margin-top: 26vh;
+    margin-left: 1vw;
+}
+#text-bienvenido-jorge text{
+    color: white;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 100;
+}
+#div-proxima-reunion{
+    border-radius: 10px;
+    width: 20vw;
+    height: 37.5vh;
+    margin-top: 3.5vh;
+    margin-left: 1.8vw;
+
+}
+.cuadrado-reunion{
+    height: 6vh;
+    width: 3.3vw;
+    margin-top: 2.9vh;
+    margin-left:1vw;
+    display: inline-block;
+    position: absolute;
+}
+#text-proximas-reuniones{
+    position: absolute;
+    font-family:Arial, Helvetica, sans-serif;
+    color: black;
+    font-weight: bold;
+    margin-top: 0vw;
+    font-size: 1vw;
+    margin-left: 1vw;
+}
+#cuadrado-1{
+    margin-top: 3.9vh;
+    border-radius: 4px;
+    background-image: url(images/mesa\ de\ trabajo.jpg);
+    background-size: cover;
+}
+#cuadrado-2{
+    margin-top: 12.9vh;
+    border-radius: 4px;
+    background-image: url(images/PersonaMirando.jpg);
+    background-size: cover;
+}
+
+#cuadrado-3{
+    margin-top: 21.9vh;
+    border-radius: 4px;
+    background-image: url(images/program.jpg);
+    background-size: cover;
+}
+#cuadrado-4{
+    margin-top: 30.9vh;
+    border-radius: 4px;
+    background-image: url(images/dos-personas-que-tienen-una-reunión-de-negocios-30236395.jpg);
+    background-size: cover;
+}
+.text-reuniones{
+    position: absolute;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 100;
+    margin-left: 5.5vw;
+    margin-top: 10vh;
+    font-weight:bold;
+    font-size: 0.9vw;
+}
+.text-reuniones-2{
+    position: absolute;
+    font-family:Arial, Helvetica, sans-serif;
+    margin-left: 5.5vw;
+    margin-top: 4vh;
+    font-weight: 520;
+    font-size: 0.7vw;
+}
+#text-reunion-1{
+    margin-top:3.2vh;
+}
+#text-reunion-7{
+    margin-top:6vh;
+}
+#text-reunion-2{
+    margin-top:12.4vh;
+}
+#text-reunion-8{
+    margin-top:15.2vh;
+}
+#text-reunion-3{
+    margin-top:21.3vh;
+}
+#text-reunion-9{
+    margin-top:24.3vh;
+}
+#text-reunion-4{
+    margin-top:30.2vh;
+}
+#text-reunion-10{
+    margin-top:33.4vh;
+}
+.image-calendar{
+    position: absolute;
+    width: 1vw;
+    height: 2vh;
+}
+.image-reloj{
+    position: absolute;
+    width: 1.5vw;
+    height: 1.5vh;
+}
+#image-calendar-1{
+    margin-left: 5.5vw;
+    margin-top: 8vh;
+}
+#image-reloj-1{
+    margin-left: 11vw;
+    margin-top: 8.4vh;
+}
+#image-calendar-2{
+    margin-left: 5.5vw;
+    margin-top: 17vh;
+}
+#image-reloj-2{
+    margin-left: 11vw;
+    margin-top: 17.4vh;
+}
+#image-calendar-3{
+    margin-left: 5.5vw;
+    margin-top: 26.1vh;
+}
+#image-reloj-3{
+    margin-left: 11vw;
+    margin-top: 26.4vh;
+}
+#image-calendar-4{
+    margin-left: 5.5vw;
+    margin-top: 35.3vh;
+}
+#image-reloj-4{
+    margin-left: 11vw;
+    margin-top: 35.4vh;
+}
+#texto-button-22{
+    font-size: 0.8vw;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 700;
+    position: relative;
+}
+.fechas-horas{
+    position: absolute;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:0.7vw;
+    margin-left: 6.8vw;
+}
+#fecha-1{
+    margin-top:8.4vh;
+}
+#fecha-2{
+    margin-top:17.4vh;
+}
+#fecha-3{
+    margin-top:26.4vh;
+}
+#fecha-4{
+    margin-top:35.4vh;
+}
+#hora-1{
+    margin-top:8.4vh;
+    margin-left: 12.7vw;
+}
+#hora-2{
+    margin-top:17.4vh;
+    margin-left: 12.7vw;
+}
+#hora-3{
+    margin-top:26.4vh;
+    margin-left: 12.7vw;
+}
+#hora-4{
+    margin-top:35.4vh;
+    margin-left: 12.7vw;
+}
+
